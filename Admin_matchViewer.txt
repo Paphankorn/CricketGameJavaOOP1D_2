@@ -1,0 +1,91 @@
+NewMatches: 1
+	Match: Turkey vs West Indies
+		Team: Turkey
+			-----------------------------------------------------
+			Mehmst Sert Age: 22 Rating: 456 Position: Point
+			Mecit Ozturk Age: 26 Rating: 201 Position: Gully
+			Ishak Elec Age: 32 Rating: 542 Position: Bowler
+			Recep Ulutuna Age: 29 Rating: 369 Position: Mid-on
+			Ali Turkmen Age: 36 Rating: 644 Position: Mid-off
+			Hasan Alta Age: 30 Rating: 804 Position: Cover
+			Serkan Kizilkaya Age: 28 Rating: 342 Position: Third man
+			Ali Kose Age: 28 Rating: 641 Position: Slip
+			Mehmet Koc Age: 26 Rating: 264 Position: Wicketkeeper
+			Hasan Helva Age: 36 Rating: 125 Position: Mid-wicket
+			Serdar Kansoy Age: 27 Rating: 541 Position: Fine leg
+			-----------------------------------------------------
+		Team: West Indies
+			-----------------------------------------------------
+			Brandon King Age: 25 Rating: 456 Position: Gully
+			Oshane Thomas Age: 23 Rating: 458 Position: Slip
+			John Campbell Age: 26 Rating: 654 Position: Point
+			Sunil Narine Age: 31 Rating: 488 Position: Cover
+			Shimron Hetmyer Age: 23 Rating: 459 Position: Bowler
+			Rovman Powell Age: 26 Rating: 489 Position: Mid-off
+			Denesh Ramdin Age: 35 Rating: 478 Position: Third man
+			Jahmar Hamilton Age: 29 Rating: 486 Position: Fine leg
+			Shai Hope Age: 26 Rating: 369 Position: Wicketkeeper
+			Jomel Warrican Age: 27 Rating: 489 Position: Mid-on
+			Shannon Gabriel Age: 31 Rating: 451 Position: Mid-wicket
+			-----------------------------------------------------
+
+Report: 2
+	MatchDetail: Singapore win
+		Team: Singapore
+			-----------------------------------------------------
+			Selladore Vijayakumar Age: 40 Rating: 748 Position: Mid-on
+			Arjun Mutreja Age: 21 Rating: 128 Position: Slip
+			Vinoth Baskaran Age: 29 Rating: 567 Position: Mid-off
+			Aritra Dutta Age: 28 Rating: 465 Position: Third man
+			Anantha Krishna Age: 29 Rating: 447 Position: Bowler
+			Chetan Suryawanshi Age: 35 Rating: 803 Position: Cover
+			Amjad Mahboob Age: 39 Rating: 748 Position: Gully
+			Aryaman Sunil Age: 19 Rating: 447 Position: Point
+			Tim David Age: 24 Rating: 367 Position: Fine leg
+			Surendran Chandramohan Age: 31 Rating: 567 Position: Mid-wicket
+			Janak Prakash Age: 19 Rating: 488 Position: Wicketkeeper
+			-----------------------------------------------------
+		Team: Italy 
+			-----------------------------------------------------
+			Peter Petricola Age: 36 Rating: 746 Position: Mid-on
+			Manpreet Singh Age: 33 Rating: 231 Position: Mid-off
+			Charanjeet Singh Age: 26 Rating: 426 Position: Fine leg
+			Damian Crowley Age: 30 Rating: 458 Position: Cover
+			Gayashan Munasinghe Age: 33 Rating: 698 Position: Third man
+			Jaspreet Singh Age: 35 Rating: 453 Position: Wicketkeeper
+			Zahid Cheema Age: 29 Rating: 258 Position: Mid-wicket
+			Fida Hussain Age: 31 Rating: 368 Position: Gully
+			Nicholos Maiolo Age: 26 Rating: 741 Position: Slip
+			Gian-Piero Meade Age: 24 Rating: 314 Position: Point
+			Anam Mollik Age: 30 Rating: 498 Position: Bowler
+			-----------------------------------------------------
+	MatchDetail: Spain win
+		Team: Spain
+			-----------------------------------------------------
+			Yasir Ali Age: 33 Rating: 656 Position: Mid-off
+			Kuldeep Lal Age: 35 Rating: 645 Position: Third man
+			Hamza Dar Age: 26 Rating: 656 Position: Mid-on
+			Faran Afzal Age: 26 Rating: 575 Position: Point
+			Tom Vine Age: 30 Rating: 622 Position: Slip
+			Christian Mills Age: 22 Rating: 473 Position: Gully
+			Awais Ahmed Age: 32 Rating: 471 Position: Cover
+			Vinod Kumar Age: 28 Rating: 644 Position: Wicketkeeper
+			Paul Hennessy Age: 34 Rating: 657 Position: Fine leg
+			Muhammad Asjed Age: 25 Rating: 142 Position: Bowler
+			Zulqarnain Haider Age: 33 Rating: 642 Position: Mid-wicket
+			-----------------------------------------------------
+		Team: China 
+			-----------------------------------------------------
+			Feng Yu Age: 18 Rating: 266 Position: Mid-on
+			Ye Weiji Age: 21 Rating: 833 Position: Mid-off
+			Jin Yonghao Age: 22 Rating: 368 Position: Mid-wicket
+			Zhang Peng Age: 30 Rating: 661 Position: Bowler
+			Zhang Fei Age: 25 Rating: 756 Position: Wicketkeeper
+			Wang Qi Age: 20 Rating: 439 Position: Third man
+			Wang Zihao Age: 14 Rating: 669 Position: Cover
+			Ke Tiansheng Age: 18 Rating: 276 Position: Fine leg
+			Lu Cangcang Age: 28 Rating: 343 Position: Gully
+			Ge Yongsheng Age: 21 Rating: 478 Position: Slip
+			Tian Suqing Age: 20 Rating: 446 Position: Point
+			-----------------------------------------------------
+
