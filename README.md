@@ -1,5 +1,5 @@
 # CricketGameJavaOOP1D_2
-# Team Project by
+# Developed by
 1. นนทพันธุ์ รุจิรกาล
 2. นรวิชญ์ อยู่บัว
 3. ปภังกร ธนโรจน์
